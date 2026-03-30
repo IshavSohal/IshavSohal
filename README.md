@@ -44,7 +44,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p>
+![Stats](./profile/stats.svg)
+<!-- <p>
 <a href="https://github.com/IshavSohal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IshavSohal&show=prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_rank=true&hide=contribs" alt="Ishav's github stats" /></a>
 <a href="https://github.com/IshavSohal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshavSohal&langs_count=10&hide=jupyter%20notebook&theme=algolia&layout=compact" /></a> 
-</p>
+</p> -->
